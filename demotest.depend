@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1344419303 source:/home/leonarven/dev/C++/demotest/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<math.h>
+	<time.h>
+	<GL/glew.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_image.h>
+
+1344408849 source:/home/leonarven/dev/C++/demotest/initializing.cpp
+
+1344408849 /home/leonarven/dev/C++/demotest/initializing.cpp
+
