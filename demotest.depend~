@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1337457662 source:/home/leonarven/dev/C++/efumaastopallofysiikka/main.cpp
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-	<GL/gl.h>
-	<GL/glu.h>
-	<SDL/SDL.h>
-
